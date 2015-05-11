@@ -1,3 +1,10 @@
+Version 2.3.6
+-------------
+
+Features:
+
+* Allow to enable validation before saving records.
+
 Version 2.3.5
 -------------
 
